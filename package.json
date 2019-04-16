@@ -1,0 +1,23 @@
+{
+  "name": "npm-impala",
+  "version": "1.0.0",
+  "description": "javascript suppor for github.com/landrisek/impala.git package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landrisek/impala.git"
+  },
+  "keywords": [
+    "react",
+    "grid"
+  ],
+  "author": "Lubomir Andrisek <landrisek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landrisek/impala/issues"
+  },
+  "homepage": "https://github.com/landrisek/impala#readme"
+}
