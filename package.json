@@ -1,6 +1,6 @@
 {
   "name": "npm-impala",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript suppor for github.com/landrisek/impala.git package",
   "main": "index.js",
   "scripts": {
