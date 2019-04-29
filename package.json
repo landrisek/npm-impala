@@ -1,23 +1,93 @@
 {
-  "name": "npm-impala",
-  "version": "1.0.1",
+  "_args": [
+    [
+      {
+        "raw": "npm-impala@^1.0.1",
+        "scope": null,
+        "escapedName": "npm-impala",
+        "name": "npm-impala",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "/var/www/4camping.cz/lubo"
+    ]
+  ],
+  "_from": "npm-impala@>=1.0.1 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "npm-impala@1.0.1",
+  "_inCache": true,
+  "_location": "/npm-impala",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/npm-impala_1.0.1_1555573989271_0.044076552335645225"
+  },
+  "_npmUser": {
+    "name": "landrisek",
+    "email": "landrisek@gmail.com"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "npm-impala@^1.0.1",
+    "scope": null,
+    "escapedName": "npm-impala",
+    "name": "npm-impala",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/npm-impala/-/npm-impala-1.0.1.tgz",
+  "_shasum": "7f9cbe6d4de021a6af0586439f2331177259efc4",
+  "_shrinkwrap": null,
+  "_spec": "npm-impala@^1.0.1",
+  "_where": "/var/www/4camping.cz/lubo",
+  "author": {
+    "name": "Lubomir Andrisek",
+    "email": "landrisek@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/landrisek/impala/issues"
+  },
+  "dependencies": {},
   "description": "javascript suppor for github.com/landrisek/impala.git package",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7f9cbe6d4de021a6af0586439f2331177259efc4",
+    "tarball": "https://registry.npmjs.org/npm-impala/-/npm-impala-1.0.1.tgz",
+    "integrity": "sha512-OgD+JvxLdW9b9F5EtORm/V5KssQ4FZB2B3RPGGYOBVJvmERH3rp8j2evKR+cRBs08EHrZCOHqUcuGOFldN1MOA==",
+    "fileCount": 6,
+    "unpackedSize": 2134641,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcuCzlCRA9TVsSAnZWagAAey0QAJV20C6udYhCTg8oT+Kw\nF4+1H0Y7ZJ+0gJxCVwQARXzjM1LqcUBGrpZUAtx8QUzrmEMw0Mt8uCZkD2x4\nO6WjfGOhlMC4a2Z9+7dL8GdKOhRh088SxS/qq2YCwiT6oI/qEJgvxo/rffmT\nOjefapO5YeHA1jl/min1cx1txREhV/xKoXz3Ux4WMOMY9rO0fbDxgqi5+WEA\nU0Ry3mKy0fNsi+ZOQsq/lm7ONkx7p7e7mQ19BkDnd9r8R+qZT5iBvmWazaNX\nn8ofQT6opwSWGkcTIE7L81o67ikQwLBBaeQboDQrIJwj5aPw9PZwMdF8bKS6\n+TWsa9NvAq8RElYLwKv4dX+OIGmJNOixmYnWwx1MNLY2V19vHik/OW5VszLG\nCEg2cFm3pQ5DBr4BXRw0qjevwumtCKNMWB6fQiadaSA7cEkeK+Ua/CryT5OS\nTUkEOd2MCL42Gjoa1Uh36NxaDKJ/v+/U0kNUmoC1z11b15feBSTjfWnj2/GE\nxoRZ7L4HA3PJ4ll+kOMJ470Bjx0jkynE9l3BgdRzLBC8PEqXhrqnkc1V3/Nh\nvNx8x2i7ONlNgI9oGcYWMxeJU5ywz9F48UiKy3w/HL2fTzoaAr5Aw5zZk3vw\ng/Za6mdEAl6YUp4nOgzcuZDDoQ1w3XF4OjL6EXI7Bd6dV2TediVl25oi0/M6\nAEZN\r\n=3kfC\r\n-----END PGP SIGNATURE-----\r\n"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/landrisek/impala.git"
-  },
+  "gitHead": "6a85ff44c1aef5d9ba3416df08b6327b3a041569",
+  "homepage": "https://github.com/landrisek/impala#readme",
   "keywords": [
     "react",
     "grid"
   ],
-  "author": "Lubomir Andrisek <landrisek@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/landrisek/impala/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "landrisek",
+      "email": "landrisek@gmail.com"
+    }
+  ],
+  "name": "npm-impala",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landrisek/impala.git"
   },
-  "homepage": "https://github.com/landrisek/impala#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }
